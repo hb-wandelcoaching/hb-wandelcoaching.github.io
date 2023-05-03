@@ -1,0 +1,17 @@
+Bedankt voor uw recente logo-aankoop. Hieronder zijn korte definities van de verschillende bestandstypen en -groottes die inbegrepen zijn bij uw aankoop:
+
+.JPG: Deze logobestanden hebben een hebben een ondoorzichtige witte achtergrond achter uw logo, die als een witte doos om uw logo heen verschijnt.
+
+.PNG: Deze logobestanden ondersteunen transparantie, en ze hebben dus geen witte doos/achtergrond. U dient deze bestanden te gebruiken bij het uploaden van uw logo naar een website of het plaatsen ervan in een bestand met een achtergrondkleur of -patroon dat u achter uw logo wilt laten zien.
+
+.EPS: (Encapsulated PostScript) Dit bestand dient voor het gebruik door printers/ontwerpers. Deze bestanden worden geleverd aan u met uw logo-afbeelding, logo, en lettertypen als vormen. Sommige computers en mobiele apparaten kunnen geen voorvertoningfunctie hebben voor deze bestandstypen.
+
+.SVG: (Scalable Vector Graphics) Deze bestanden dienen voor het gebruik door printers/ontwerpers. Deze bestanden zijn de oorspronkelijke ontwerpbestanden, en bevatten ook de lettertypen die gebruikt worden in uw logo. Sommige computers en mobiele apparaten kunnen geen voorvertoningfunctie hebben voor deze bestandstypen.
+
+.PDF: (Portable Document Format) Dit bestand wordt gebruikt om de lay-out van uw logoformaat te behouden op alle computers en mobiele apparaten. Het kan soms een aanvaardbaar formaat zijn voor printers.
+
+dpi: (punten per inch) een maat voor de resolutie die wordt gebruikt voor gedrukte tekst of afbeeldingen, hoe meer punten per inch, hoe hoger de resolutie.
+
+px: (Pixels) een zeer klein verlichtingsgebied op een beeldscherm, een van de vele waaruit een beeld is samengesteld.
+
+
