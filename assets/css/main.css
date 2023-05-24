@@ -1192,7 +1192,7 @@ responsive
 
 @media (max-width: 992px) {
   #top {
-/*    padding-top: 100px;*/
+    padding-top: 100px;
     height: auto;
   }
   .header-area .main-nav .nav li.submenu:after {
@@ -1324,5 +1324,11 @@ responsive
   }
   100% {
     opacity: 0;
+  }
+}
+
+@media (max-width: 992px) {
+  #second_card {
+    margin-top: 50px;
   }
 }
