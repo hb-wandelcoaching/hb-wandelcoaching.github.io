@@ -887,6 +887,10 @@ about
   margin-bottom: 25px;
 }
 
+#about .right-text-content{
+  margin-bottom: 50px;
+}
+
 #about .right-text-content p {
   margin-bottom: 25px;
 }
@@ -1331,4 +1335,25 @@ responsive
   #second_card {
     margin-top: 50px;
   }
+}
+
+
+.list-leaves {
+	position: relative;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1.6em;
+}
+.list-leaves li:before {
+	content: "🌿";
+	position: absolute;
+	left: 0;
+}
+
+#footer-logos .logo {
+  max-width: 100%;
+}
+
+#footer-logos img {
+  max-width: 100%;
 }
