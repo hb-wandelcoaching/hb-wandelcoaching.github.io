@@ -1357,3 +1357,15 @@ responsive
 #footer-logos img {
   max-width: 100%;
 }
+
+.logos-column {
+  width: 22%;
+  display: inline-flex;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.logo-logo {
+  width: 100%;
+  max-width: 100%;
+}
